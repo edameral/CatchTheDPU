@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Catch The DPU</string>
+    <string name="Timer">Time: </string>
+    <string name="Score">Score: </string>
+</resources>
